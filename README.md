@@ -9,3 +9,4 @@
 #### [x] [4. Chapter_1: Problem 1.4](https://www.zybuluo.com/lumato/note/902949)
 #### [x] [5. Chapter 2: Problem 2.7](https://www.zybuluo.com/lumato/note/913675)
 #### [x] [6. Chapter 2_add: Try to use Pygame to do someting interesting](https://www.zybuluo.com/lumato/note/914421)
+#### [x] [7. Chapter 2: Problem 2.19](https://www.zybuluo.com/lumato/note/921046)
