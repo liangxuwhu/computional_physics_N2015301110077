@@ -12,3 +12,4 @@
 #### [x] [7. Chapter 2: Problem 2.19](https://www.zybuluo.com/lumato/note/921046)
 #### [x] [8. Chapter 3: Problem 3.13](https://www.zybuluo.com/lumato/note/925020)
 #### [x] [9. Chapter 3: Problem 3.18](https://www.zybuluo.com/lumato/note/938411)
+#### [x] [9. Chapter 3: Problem 3.31](https://www.zybuluo.com/lumato/note/947051)
