@@ -13,3 +13,4 @@
 #### [x] [8. Chapter 3: Problem 3.13](https://www.zybuluo.com/lumato/note/925020)
 #### [x] [9. Chapter 3: Problem 3.18](https://www.zybuluo.com/lumato/note/938411)
 #### [x] [10. Chapter 3: Problem 3.31](https://www.zybuluo.com/lumato/note/947051)
+#### [x] [Mid-term Test](https://www.zybuluo.com/lumato/note/946439)
