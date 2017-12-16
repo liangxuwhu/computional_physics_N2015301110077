@@ -16,3 +16,4 @@
 #### [x] [Mid-term Test](https://www.zybuluo.com/lumato/note/946439)
 #### [x] [11. Chapter 4: Problem 4.11](https://www.zybuluo.com/lumato/note/970710)
 #### [x] [12. Chapter 5: Problem 5.3](https://www.zybuluo.com/lumato/note/979279)
+#### [x] [12. Chapter 6: Problem 6.6](https://www.zybuluo.com/lumato/note/979970)
